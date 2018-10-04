@@ -4,4 +4,16 @@ Segundo push
 
 Inicio ramas
 
+Edición 1 en rama test
+
 Movimiento Rama master delante de test
+
+Primera edición en rama desarrollo
+
+Segunda edición en rama desarrollo
+
+Commit previo al merge de desarrollo en rama test 
+
+Resolución del conflicto del merge de desarrollo sobre test
+
+Resolución del conficto del merge de test sobre master
